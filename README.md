@@ -1,5 +1,7 @@
 ## Zapier en Adafruit setup
 
+Follow the steps carefully - Its easy don't worry 
+
 ### Setup
 
 Make if needed a Google account(Calendar), Adafruit account and Zapier account.
@@ -33,3 +35,6 @@ Also Download zapier Chrome extension you can find this here: hier:https://chrom
 - In "edit template" tab fill in by Value: "1"(To your choosing) and Feed: "{Name of the feed}.
 - (To make it work you have to complete the setup in Adafruit -- see step 1!) 
 - Test The Action! 
+
+Floris Elders 
+- part 1 For Ivy
